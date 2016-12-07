@@ -16,6 +16,8 @@
 {
     // Get data from server
     [self getDataFromServer];
+    
+    // [self getLocalData];
 }
 
 - (void)getDataFromServer
